@@ -1,0 +1,37 @@
+produtos = {
+  "eletronicos": {
+    "iphone 14": { "descricao": "iPhone 14 com 128GB", "preco": 4299, "estoque": 12 },
+    "iphone 15": { "descricao": "iPhone 15 com 128GB", "preco": 5499, "estoque": 9 },
+    "samsung galaxy a54": { "descricao": "Samsung Galaxy A54 5G 128GB", "preco": 1699, "estoque": 15 },
+    "fone de ouvido jbl": { "descricao": "Qualidade JBL Pure Bass sem fio", "preco": 199, "estoque": 34 },
+    "smartwatch": { "descricao": "Relógio inteligente compatível Android/iOS", "preco": 149, "estoque": 21 },
+    "alexa echo dot": { "descricao": "Smart Speaker com Alexa 5ª Geração", "preco": 359, "estoque": 40 }
+  },
+  "informatica": {
+    "notebook lenovo": { "descricao": "Notebook Ideapad i5 8GB SSD 256GB", "preco": 2899, "estoque": 8 },
+    "impressora multifuncional": { "descricao": "Impressora Tanque de Tinta Wi-Fi", "preco": 899, "estoque": 11 },
+    "mouse sem fio": { "descricao": "Mouse óptico ergonômico", "preco": 49, "estoque": 55 }
+  },
+  "eletroportateis": {
+    "air fryer": { "descricao": "Fritadeira Elétrica Sem Óleo 4L", "preco": 349, "estoque": 25 },
+    "liquidificador": { "descricao": "Liquidificador Turbo 1000W", "preco": 129, "estoque": 30 },
+    "cafeteira eletrica": { "descricao": "Cafeteira programável inox", "preco": 189, "estoque": 18 }
+  },
+  "moveis": {
+    "mesa de jantar": { "descricao": "Mesa de 4 ou 6 lugares, tampo de vidro", "preco": 899, "estoque": 5 },
+    "sofá": { "descricao": "Sofá retrátil e reclinável 3 lugares", "preco": 1199, "estoque": 7 },
+    "guarda roupa": { "descricao": "Guarda-roupa casal 6 portas", "preco": 950, "estoque": 4 }
+  },
+  "automotivo": {
+    "pneu": { "descricao": "Pneu marcas variadas aro 13 ao 17", "preco": 280, "estoque": 40 },
+    "kit som automotivo": { "descricao": "Rádio MP3 com Bluetooth e USB", "preco": 159, "estoque": 12 }
+  },
+  "eletrodomesticos": {
+    "lavadora de roupas": { "descricao": "Lavadora automática 12kg", "preco": 1599, "estoque": 6 },
+    "lava louça": { "descricao": "Lava-louças 8 a 14 serviços", "preco": 1799, "estoque": 4 },
+    "geladeira frost free": { "descricao": "Refrigerador Duplex Inox 375L", "preco": 3199, "estoque": 8 },
+    "fogão": { "descricao": "Fogão 4 bocas acendimento automático", "preco": 899, "estoque": 10 },
+    "tv": { "descricao": "Smart TV 4K 50 polegadas", "preco": 2199, "estoque": 10 },
+    "ventilador": { "descricao": "Ventilador de Coluna 40cm Turbo", "preco": 179, "estoque": 60 }
+  }
+}
