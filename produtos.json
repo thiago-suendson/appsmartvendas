@@ -3,35 +3,56 @@
     "iphone 14": { "descricao": "iPhone 14 com 128GB", "preco": 4299, "estoque": 12 },
     "iphone 15": { "descricao": "iPhone 15 com 128GB", "preco": 5499, "estoque": 9 },
     "samsung galaxy a54": { "descricao": "Samsung Galaxy A54 5G 128GB", "preco": 1699, "estoque": 15 },
+    "xiaomi redmi note 12": { "descricao": "Smartphone Xiaomi Redmi Note 12 128GB", "preco": 1199, "estoque": 20 },
+    "ipad 9": { "descricao": "iPad 9ª Geração 64GB Wi-Fi", "preco": 2399, "estoque": 5 },
     "fone de ouvido jbl": { "descricao": "Qualidade JBL Pure Bass sem fio", "preco": 199, "estoque": 34 },
     "smartwatch": { "descricao": "Relógio inteligente compatível Android/iOS", "preco": 149, "estoque": 21 },
-    "alexa echo dot": { "descricao": "Smart Speaker com Alexa 5ª Geração", "preco": 359, "estoque": 40 }
+    "alexa echo dot": { "descricao": "Smart Speaker com Alexa 5ª Geração", "preco": 359, "estoque": 40 },
+    "power bank": { "descricao": "Carregador Portátil Universal 10.000mAh", "preco": 89, "estoque": 50 },
+    "camera de seguranca": { "descricao": "Câmera Wi-Fi Full HD Externa", "preco": 229, "estoque": 15 }
   },
   "informatica": {
     "notebook lenovo": { "descricao": "Notebook Ideapad i5 8GB SSD 256GB", "preco": 2899, "estoque": 8 },
+    "notebook dell inspiron": { "descricao": "Notebook Dell i7 16GB SSD 512GB", "preco": 4500, "estoque": 4 },
     "impressora multifuncional": { "descricao": "Impressora Tanque de Tinta Wi-Fi", "preco": 899, "estoque": 11 },
-    "mouse sem fio": { "descricao": "Mouse óptico ergonômico", "preco": 49, "estoque": 55 }
+    "monitor 24": { "descricao": "Monitor LED 24 polegadas Full HD HDMI", "preco": 699, "estoque": 10 },
+    "teclado mecanico": { "descricao": "Teclado Gamer Mecânico RGB", "preco": 250, "estoque": 15 },
+    "mouse sem fio": { "descricao": "Mouse óptico ergonômico", "preco": 49, "estoque": 55 },
+    "ssd 480gb": { "descricao": "HD SSD 480GB SATA 3", "preco": 189, "estoque": 30 },
+    "roteador wifi 6": { "descricao": "Roteador Gigabit Dual Band AX1500", "preco": 299, "estoque": 12 }
   },
   "eletroportateis": {
     "air fryer": { "descricao": "Fritadeira Elétrica Sem Óleo 4L", "preco": 349, "estoque": 25 },
+    "aspirador robo": { "descricao": "Aspirador Robô Varre e Passa Pano", "preco": 899, "estoque": 8 },
     "liquidificador": { "descricao": "Liquidificador Turbo 1000W", "preco": 129, "estoque": 30 },
-    "cafeteira eletrica": { "descricao": "Cafeteira programável inox", "preco": 189, "estoque": 18 }
+    "batedeira planetaria": { "descricao": "Batedeira Planetária 500W Inox", "preco": 459, "estoque": 6 },
+    "cafeteira eletrica": { "descricao": "Cafeteira programável inox", "preco": 189, "estoque": 18 },
+    "ferro de passar": { "descricao": "Ferro a Vapor Antiaderente", "preco": 110, "estoque": 22 },
+    "sanduicheira": { "descricao": "Sanduicheira e Grill Inox", "preco": 99, "estoque": 40 }
   },
   "moveis": {
     "mesa de jantar": { "descricao": "Mesa de 4 ou 6 lugares, tampo de vidro", "preco": 899, "estoque": 5 },
     "sofá": { "descricao": "Sofá retrátil e reclinável 3 lugares", "preco": 1199, "estoque": 7 },
-    "guarda roupa": { "descricao": "Guarda-roupa casal 6 portas", "preco": 950, "estoque": 4 }
+    "guarda roupa": { "descricao": "Guarda-roupa casal 6 portas", "preco": 950, "estoque": 4 },
+    "cadeira gamer": { "descricao": "Cadeira Gamer Reclinável com Rodinhas", "preco": 799, "estoque": 10 },
+    "escrivaninha": { "descricao": "Mesa para computador estilo industrial", "preco": 350, "estoque": 12 },
+    "cama box casal": { "descricao": "Cama Box Casal com Colchão de Molas", "preco": 1399, "estoque": 3 }
   },
   "automotivo": {
     "pneu": { "descricao": "Pneu marcas variadas aro 13 ao 17", "preco": 280, "estoque": 40 },
-    "kit som automotivo": { "descricao": "Rádio MP3 com Bluetooth e USB", "preco": 159, "estoque": 12 }
+    "kit som automotivo": { "descricao": "Rádio MP3 com Bluetooth e USB", "preco": 159, "estoque": 12 },
+    "aspirador automotivo": { "descricao": "Aspirador de pó portátil 12V", "preco": 79, "estoque": 20 },
+    "capa para carro": { "descricao": "Capa protetora impermeável com forro", "preco": 120, "estoque": 8 }
   },
   "eletrodomesticos": {
     "lavadora de roupas": { "descricao": "Lavadora automática 12kg", "preco": 1599, "estoque": 6 },
     "lava louça": { "descricao": "Lava-louças 8 a 14 serviços", "preco": 1799, "estoque": 4 },
     "geladeira frost free": { "descricao": "Refrigerador Duplex Inox 375L", "preco": 3199, "estoque": 8 },
+    "microondas": { "descricao": "Forno Micro-ondas 32 Litros Espelhado", "preco": 649, "estoque": 14 },
     "fogão": { "descricao": "Fogão 4 bocas acendimento automático", "preco": 899, "estoque": 10 },
+    "ar condicionado": { "descricao": "Ar Condicionado Split 9000 BTUs Frio", "preco": 1599, "estoque": 5 },
     "tv": { "descricao": "Smart TV 4K 50 polegadas", "preco": 2199, "estoque": 10 },
-    "ventilador": { "descricao": "Ventilador de Coluna 40cm Turbo", "preco": 179, "estoque": 60 }
+    "ventilador": { "descricao": "Ventilador de Coluna 40cm Turbo", "preco": 179, "estoque": 60 },
+    "purificador de agua": { "descricao": "Purificador de Água Gelada e Natural", "preco": 459, "estoque": 9 }
   }
 }
