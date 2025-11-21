@@ -1,4 +1,4 @@
-produtos = {
+{
   "eletronicos": {
     "iphone 14": { "descricao": "iPhone 14 com 128GB", "preco": 4299, "estoque": 12 },
     "iphone 15": { "descricao": "iPhone 15 com 128GB", "preco": 5499, "estoque": 9 },
