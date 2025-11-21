@@ -35,7 +35,7 @@ def get_product_query_response():
     return "Qual seria o produto que você procura?"
 
 def get_delivery_response(product_name):
-    return f"Certo, achei o seu **{product_name.title()}**.\n\nDeseja saber sobre o prazo de entrega?"
+    return f"Certo, achei o seu produto **{product_name.title()}**.\n\nDeseja saber sobre o prazo de entrega?"
 
 def get_transfer_query_response():
     return "O prazo é de 2 a 5 dias úteis.\n\nDeseja que te transfira para um de nossos vendedores?"
@@ -51,8 +51,8 @@ st.markdown("""
         --bg-gray: #F5F5F5;
         --chat-user: #1565C0;
         --chat-bot: #FFFFFF;
-        --phone-width: 360px;  /* Largura fixa compacta */
-        --phone-height: 640px; /* Altura fixa compacta (16:9) */
+        --phone-width: 260px;  /* Largura fixa compacta */
+        --phone-height: 540px; /* Altura fixa compacta (16:9) */
     }
 
     /* Centraliza tudo na página */
