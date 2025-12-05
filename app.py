@@ -8,7 +8,7 @@ from funcoes import (
 # --- Configurações Iniciais ---
 st.set_page_config(page_title="SmartVendas - Chat", layout="centered")
 
-# Mock para carregar dados (substitua pela sua importação real se necessário)
+# Mock para carregar dados
 @st.cache_data
 def carregar_dados():
     try:
